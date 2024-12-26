@@ -5,7 +5,7 @@ import java.awt.event.*;
 // class which inherits the MouseAdapter class  
 public class MouseAdapterExample extends MouseAdapter {    
 // object of Frame class  
-    Frame f;    
+    Frame f; //this   
 // class constructor  
     MouseAdapterExample() {    
 // creating the frame with the title  
